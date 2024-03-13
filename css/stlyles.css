@@ -1,0 +1,39 @@
+body,html {
+    margin: 0;
+    box-sizing: 0;
+}
+navbar {
+    background-color: rgb(255, 153, 0);
+    display: block;
+    padding: 30px;
+}
+navbar a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin-left: 25px;
+}
+img {
+    width: 60px;
+    margin-left: 50em;
+    border-radius: 100px;
+}
+.hero {
+  
+   
+    background-image: url("/img/allan.jpg");
+    background-size:auto; 
+    background-repeat: no-repeat;
+    height: 90em;
+    color:#FFD700;
+    
+}
+h1,
+h2,
+p{
+   color: #000000;
+   font-size: 40px;
+   margin: 30px;
+   position:relative; top:14em;
+}
